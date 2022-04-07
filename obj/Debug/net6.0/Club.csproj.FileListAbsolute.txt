@@ -1,0 +1,30 @@
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\Club.csproj.AssemblyReference.cache
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\Club.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\Club.AssemblyInfoInputs.cache
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\Club.AssemblyInfo.cs
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\Club.csproj.CoreCompileInputs.cache
+D:\David\Desktop\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\Club.csproj.AssemblyReference.cache
+D:\David\Desktop\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\Club.GeneratedMSBuildEditorConfig.editorconfig
+D:\David\Desktop\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\Club.AssemblyInfoInputs.cache
+D:\David\Desktop\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\Club.AssemblyInfo.cs
+D:\David\Desktop\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\Club.csproj.CoreCompileInputs.cache
+D:\David\Desktop\Club Mascotas y Aficionados\Club\bin\Debug\net6.0\Club.exe
+D:\David\Desktop\Club Mascotas y Aficionados\Club\bin\Debug\net6.0\Club.deps.json
+D:\David\Desktop\Club Mascotas y Aficionados\Club\bin\Debug\net6.0\Club.runtimeconfig.json
+D:\David\Desktop\Club Mascotas y Aficionados\Club\bin\Debug\net6.0\Club.dll
+D:\David\Desktop\Club Mascotas y Aficionados\Club\bin\Debug\net6.0\Club.pdb
+D:\David\Desktop\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\Club.dll
+D:\David\Desktop\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\refint\Club.dll
+D:\David\Desktop\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\Club.pdb
+D:\David\Desktop\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\Club.genruntimeconfig.cache
+D:\David\Desktop\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\ref\Club.dll
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Club Mascotas y Aficionados\Club\bin\Debug\net6.0\Club.exe
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Club Mascotas y Aficionados\Club\bin\Debug\net6.0\Club.deps.json
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Club Mascotas y Aficionados\Club\bin\Debug\net6.0\Club.runtimeconfig.json
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Club Mascotas y Aficionados\Club\bin\Debug\net6.0\Club.dll
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Club Mascotas y Aficionados\Club\bin\Debug\net6.0\Club.pdb
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\Club.dll
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\refint\Club.dll
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\Club.pdb
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\Club.genruntimeconfig.cache
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Club Mascotas y Aficionados\Club\obj\Debug\net6.0\ref\Club.dll
